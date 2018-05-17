@@ -1,0 +1,6 @@
+projectKey=APIBanco
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/APIBanco
+ceTaskId=AWNcaUaMeqlmnuQmU6FA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNcaUaMeqlmnuQmU6FA
