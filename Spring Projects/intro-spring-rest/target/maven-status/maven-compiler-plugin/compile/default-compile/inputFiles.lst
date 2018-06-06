@@ -1,0 +1,15 @@
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\domain\CargaHoraria.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\resource\rest\SpringRestController.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\config\SpringRootConfig.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\dao\CursoDAO.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\resource\exception\RestExceptionHandler.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\domain\DetalheErro.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\domain\Curso.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\config\SpringInitConfig.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\service\CursoService.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\intro_spring_rest\App.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\exception\NaoExisteDaoException.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\config\SpringJpaConfig.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\dao\CursoDAOImpl.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\exception\IdNaoValidoServiceException.java
+C:\Users\Italo\workspace-spring-tools-suite\intro-spring-rest\src\main\java\br\com\italo\springrest\service\CursoServiceImpl.java

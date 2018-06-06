@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [20/May/2018:18:52:20 -0300] "GET /intro-spring-mvc HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/May/2018:18:52:22 -0300] "GET /intro-spring-mvc/ HTTP/1.1" 200 277 http-bio-8080-exec-2 1503
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:36:32 -0300] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:41:57 -0300] "GET /intro-spring-mvc HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:41:58 -0300] "GET /intro-spring-mvc/ HTTP/1.1" 200 277 http-bio-8080-exec-5 255
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:42:04 -0300] "GET /intro-spring-mvc/teste HTTP/1.1" 404 1033 http-bio-8080-exec-7 87
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:42:09 -0300] "GET /intro-spring-mvc HTTP/1.1" 302 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:42:09 -0300] "GET /intro-spring-mvc/ HTTP/1.1" 200 277 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:42:41 -0300] "GET /intro-spring-mvc/teste HTTP/1.1" 404 1033 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [20/May/2018:19:42:48 -0300] "GET /intro-spring-mvc/ HTTP/1.1" 200 277 http-bio-8080-exec-2 4
